@@ -68,3 +68,9 @@ cada opción. Una vez validado, se puede agregar la acción a la lista para fina
 ## Transiciones
 Para transitar al nuevo estado, se genera una copia del estado actual y se le aplica la acción correspondiente. Luego se retorna.
 
+## Heurística
+La evaluación del mejor nodo a seguir estará dada por la mayor area cuadrada sin ocupar. Por ejemplo, si quisieramos poner el tercer cuadrado, de lado 2,
+podemos apreciar que el area cuadrada más grande por abarcar sería de lado 2 (cuadro verde)
+
+![heuristica](img/heuristica.png)
+
