@@ -79,9 +79,9 @@ podemos apreciar que el área cuadrada más grande por abarcar sería de lado 2 
 
 Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | Aspecto positivo | Aspecto negativo
 ------ | ------------------------ | ----------- | --------------- | ------------ | ---------------- | ----------------
-Dan | 7 | 7 | 7 | 7 | Organizado | Habla poco
-Etienne | 7 | 7 | 7 | 7 | Buena distribuyendo labores | Le cuesta explicar sus ideas
-Amanda | 7 | 7 | 7 | 7 | Describe bien sus ideas | Habla poco
+Dan | -1 | 0 | 0 | +1 | Organizado | Habla poco
+Etienne | +1 | -1 | 0 | 0 | Buena distribuyendo labores | Le cuesta explicar sus ideas
+Amanda | -1 | 0 | +1 | 0 | Describe bien sus ideas | Habla poco
 
 ### Etienne Bellenger
 
