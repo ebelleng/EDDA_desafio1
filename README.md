@@ -98,3 +98,11 @@ Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribuci�
 Etienne | +1 | 0 | -1 | 0 | Buena iniciativa | Habla mucho
 Axel | 0 | +1 | 0 | -1 | Proactivo | Clarificar mejor ideas
 Amanda | -1 | +1 | 0 | 0 | Puntual | Escaza iniciativa
+
+### Amanda Flores
+
+Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | Aspecto positivo | Aspecto negativo
+------ | ------------------------ | ----------- | --------------- | ------------ | ---------------- | ----------------
+Dan | -1 | 0 | 0 | +1 | Buena iniciativa | Habla poco
+Etienne | +1 | 0 | -1 | 0 | Pragmática | Habla mucho
+Axel | -1 | +1 | 0 | 0 | Proactivo | Le cuesta explicar sus ideas
