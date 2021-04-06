@@ -87,6 +87,6 @@ Amanda | 7 | 7 | 7 | 7 | Describe bien sus ideas | Habla poco
 
 Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | Aspecto positivo | Aspecto negativo
 ------ | ------------------------ | ----------- | --------------- | ------------ | ---------------- | ----------------
-Dan | 7 | 7 | 7 | 7 | Programa bonito | Habla poco
-Axel | 7 | 7 | 7 | 7 | Proactivo | Le cuesta explicar sus ideas
-Amanda | 7 | 7 | 7 | 7 | Describe bien sus ideas | Poca iniciativa
+Dan | -1 | +1 | 0 | 0 | Programa bonito | Habla poco
+Axel | +1 | 0 | -1 | 0 | Proactivo | Le cuesta explicar sus ideas
+Amanda | -1 | 0 | +1 | 0 | Describe bien sus ideas | Poca iniciativa
