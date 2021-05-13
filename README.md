@@ -73,36 +73,3 @@ La evaluación del mejor nodo a seguir estará dada por la mayor área cuadrada 
 podemos apreciar que el área cuadrada más grande por abarcar sería de lado 2 (cuadro verde)
 
 ![heuristica](img/heuristica.png)
-
-## Coevaluación
-### Axel Ormeño
-
-Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | Aspecto positivo | Aspecto negativo
------- | ------------------------ | ----------- | --------------- | ------------ | ---------------- | ----------------
-Dan | -1 | 0 | 0 | +1 | Organizado | Habla poco
-Etienne | +1 | -1 | 0 | 0 | Buena distribuyendo labores | Le cuesta explicar sus ideas
-Amanda | -1 | 0 | +1 | 0 | Describe bien sus ideas | Habla poco
-
-### Etienne Bellenger
-
-Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | Aspecto positivo | Aspecto negativo
------- | ------------------------ | ----------- | --------------- | ------------ | ---------------- | ----------------
-Dan | -1 | +1 | 0 | 0 | Programa bonito | Habla poco
-Axel | +1 | 0 | -1 | 0 | Proactivo | Le cuesta explicar sus ideas
-Amanda | -1 | 0 | +1 | 0 | Describe bien sus ideas | Poca iniciativa
-
-### Dan Santos
-
-Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | Aspecto positivo | Aspecto negativo
------- | ------------------------ | ----------- | --------------- | ------------ | ---------------- | ----------------
-Etienne | +1 | 0 | -1 | 0 | Buena iniciativa | Habla mucho
-Axel | 0 | +1 | 0 | -1 | Proactivo | Clarificar mejor ideas
-Amanda | -1 | +1 | 0 | 0 | Puntual | Escaza iniciativa
-
-### Amanda Flores
-
-Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | Aspecto positivo | Aspecto negativo
------- | ------------------------ | ----------- | --------------- | ------------ | ---------------- | ----------------
-Dan | -1 | 0 | 0 | +1 | Buena iniciativa | Habla poco
-Etienne | +1 | 0 | -1 | 0 | Pragmática | Habla mucho
-Axel | -1 | +1 | 0 | 0 | Proactivo | Le cuesta explicar sus ideas
